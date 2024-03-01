@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LoganHaug
 - 👀 CS @ UCSC
-- 🌱 Python, c++, java, and JS
+- 🌱 Python, C / C++, and JS
 
